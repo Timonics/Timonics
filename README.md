@@ -9,7 +9,7 @@
 
 ## 🧰 My Toolbox
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your Username]&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timonics&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -39,21 +39,13 @@
 
 ---
 
-## 📌 Pinned Projects (Optional)
+## 📌 Pinned Projects
 
 Here are some of my favorite repositories:
 
 - **[Project One](https://github.com/velto)** – Multi-tenant system supporting layered tenants (individual vendors & larger entities) with RBAC.
 - **[Project Two](https://github.com/taj-kulture-backend)** – Multi-vendor e-commerce backend with vendor management, order lifecycle, and scalable architecture.
 - **[Project Three](https://github.com/empdata-new)**
-
----
-
-## 🏆 Trophies (Optional)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Timonics&theme=radical&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
