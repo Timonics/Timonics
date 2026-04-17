@@ -43,9 +43,9 @@
 
 Here are some of my favorite repositories:
 
-- **[Project One](https://github.com/velto)** – Multi-tenant system supporting layered tenants (individual vendors & larger entities) with RBAC.
-- **[Project Two](https://github.com/taj-kulture-backend)** – Multi-vendor e-commerce backend with vendor management, order lifecycle, and scalable architecture.
-- **[Project Three](https://github.com/empdata-new)**
+- **[Velto](https://github.com/velto)** – Multi-tenant system supporting layered tenants (individual vendors & larger entities) with RBAC.
+- **[Taj Kulture](https://github.com/taj-kulture-backend)** – Multi-vendor e-commerce backend with vendor management, order lifecycle, and scalable architecture.
+- **[Empdata](https://github.com/empdata-new)**
 
 ---
 
