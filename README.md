@@ -2,7 +2,7 @@
 
 🎯 **A passionate backend focused full stack developer**  
 🌱 Currently learning: AWS, Advanced NestJS patterns  
-💬 Ask me about: NestJS, system design, APIs, multi-tenancy, RBAC  
+💬 Talk about: NestJS, system design, APIs, multi-tenancy, RBAC  
 ⚡ Fun fact: I enjoy breaking down complex backend systems and rebuilding them cleaner & more scalable 
 
 ---
